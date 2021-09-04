@@ -674,10 +674,10 @@ MonoBehaviour:
   audioSourceBGM: {fileID: 1184107107}
   audioClips:
   - {fileID: 8300000, guid: 315edc9603fca47d7a3d1eb3ab2e4bf9, type: 3}
-  - {fileID: 8300000, guid: 2e2362e5b924846508be96e892db67b3, type: 3}
+  - {fileID: 8300000, guid: 5b637f12c9b125840befabe9ca3df248, type: 3}
   audioSourceSE: {fileID: 1184107107}
   SEClips:
-  - {fileID: 8300000, guid: b2fa09c76e0c543cfa8396563aa40ea2, type: 3}
+  - {fileID: 8300000, guid: d62956e9e355d3741b7ef6a1bf1056ef, type: 3}
   - {fileID: 8300000, guid: 39ce96116a2a94f2a8bb055e54e65eb5, type: 3}
 --- !u!4 &1184107109
 Transform:
